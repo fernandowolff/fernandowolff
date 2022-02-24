@@ -9,3 +9,4 @@ I'm brazilian. Graduated in Computer Science. I started with games and web devel
  <br/> :email: &nbsp; Get in contact: [![Linkedin Badge](https://img.shields.io/badge/-FernandoWolff-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fernando-ramos-wolff-ba9638a8/)](https://www.linkedin.com/in/fernando-ramos-wolff-ba9638a8/) 
 | 
 [![Gmail Badge](https://img.shields.io/badge/-fernandowolffdev@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fernandowolffdev@gmail.com)](mailto:fernandowolffdev@gmail.com)
+|[![Twitter Badge](https://img.shields.io/badge/-FernandoWolff94-white?style=flat-square&logo=Twitter&logoColor=blue&link=https://twitter.com/FernandoWolff94)](https://twitter.com/FernandoWolff94)
