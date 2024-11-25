@@ -1,7 +1,7 @@
 # Fernando Ramos Wolff
 
 ## Hello guys!
-'m a brazilian software developer, currently working for Bellosoft, a software development company. I graduated in Computer Science in 2018.
+I'm a brazilian software developer, currently working for Bellosoft, a software development company. I graduated in Computer Science in 2018.
 
 I started with games and web development at the end of 2016. Since then I've been working mostly with Asp.Net MVC/Core, Optimizely CMS, and a little with VueJS. I worked with Unity3D until 2019, when decided to leave games development behind, focusing on .Net technologies.
 
